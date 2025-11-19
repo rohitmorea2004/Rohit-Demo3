@@ -1,5 +1,5 @@
 # Rohit-Demo3
-This Is My First Git Projiect
+This Is My First Git Project
 <br>
 Author-Rohit More
 <title>Hello</title>
